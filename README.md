@@ -1,13 +1,34 @@
 # UltimateBuild-Projects
 
+![image](https://github.com/danizrafidz/UltimateBuild-Projects/assets/105960343/c1fcf639-922d-4320-8ea8-78d9e2e78531)
+Reached highest rank engineer in "Ultimate Build" server (the ranks: Engineer -> Good Engineer -> Ultimate Engineer)
+
 ## 1. 10x10 Pixel Animation Software (with Logic Gates)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R0qAFd2zKA4?si=-WPqur4jTZynkm9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://github.com/danizrafidz/UltimateBuild-Projects/assets/105960343/eb3211ed-207f-4fc5-9a54-dd2aaa8174d5
+
+Full Showcase ( https://www.youtube.com/watch?v=R0qAFd2zKA4 )
+
+Units I used:
+- Logic Gates & Wire: Node, Buffer, AND gate, OR gate, XOR gate, NAND gate, NOR gate, NOT gate, XNOR gate
+- Button & Switch
+- Transmitter & Receiver
+- Repeater & Timer
+- Sequence
+- Random
+- Painter Block
+- LED
+- Physics Block
+- Constraint Tool
 
 ![image](https://github.com/danizrafidz/UltimateBuild-Projects/assets/105960343/a0dfc1a2-21d8-489c-82d1-73ffe25eb450)
 ![image](https://github.com/danizrafidz/UltimateBuild-Projects/assets/105960343/ca073e37-62cd-4e89-bb73-5841e2683a72)
 
 ## 2. Geometry Blox (with Logic Gates)
+https://github.com/danizrafidz/UltimateBuild-Projects/assets/105960343/612746a5-ed96-4e84-b3dc-5d43b3e25335
+
 ![image](https://github.com/danizrafidz/UltimateBuild-Projects/assets/105960343/8e796a4d-f6b7-4c04-a3cc-88bab60d5df2)
+
 Some details of the algorithms that I used:
 Initialize game variables:
 - Blocky
