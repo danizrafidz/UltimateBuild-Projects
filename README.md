@@ -1,7 +1,8 @@
 # UltimateBuild-Projects
+Reached highest rank engineer in "Ultimate Build" server (the ranks: Engineer -> Good Engineer -> Ultimate Engineer)
 
 ![image](https://github.com/danizrafidz/UltimateBuild-Projects/assets/105960343/c1fcf639-922d-4320-8ea8-78d9e2e78531)
-Reached highest rank engineer in "Ultimate Build" server (the ranks: Engineer -> Good Engineer -> Ultimate Engineer)
+
 
 ## 1. 10x10 Pixel Animation Software (with Logic Gates)
 
