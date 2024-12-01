@@ -10,7 +10,7 @@ https://github.com/danizrafidz/UltimateBuild-Projects/assets/105960343/eb3211ed-
 
 Full Showcase ( https://www.youtube.com/watch?v=R0qAFd2zKA4 )
 
-Units I used:
+Units used:
 - Logic Gates & Wire: Node, Buffer, AND gate, OR gate, XOR gate, NAND gate, NOR gate, NOT gate, XNOR gate
 - Button & Switch
 - Transmitter & Receiver
